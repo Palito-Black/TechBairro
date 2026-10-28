@@ -1,0 +1,2 @@
+# A TechBairro usa apenas a biblioteca padrão do Python.
+# tkinter e sqlite3 acompanham a instalação padrão do Python.

@@ -1,0 +1,13 @@
+TechBairro 3.3.2
+
+Requisitos
+- Python 3 instalado com suporte ao Tkinter.
+- Não são necessárias bibliotecas externas.
+
+Como executar
+1. Abra um terminal nesta pasta.
+2. Execute: python techbairro.py
+
+O banco local techbairro.db será criado automaticamente. Use apenas dados fictícios em demonstrações.
+
+Repositório: https://github.com/Palito-Black/TechBairro
